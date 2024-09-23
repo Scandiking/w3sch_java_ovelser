@@ -1,3 +1,4 @@
+// Løkke i løkke eller...:
 public class NestedLoops {
     public static void main(String[] args) {
         // Ytre løkke
